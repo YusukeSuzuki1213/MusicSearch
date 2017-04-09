@@ -1,0 +1,40 @@
+html {
+  background-color :#000000;
+}
+
+
+.video-wrap {
+  position       :  relative;
+  width          :  100%;
+  height         :  100%;
+  vertical-align :  bottom;
+}
+
+
+.video {
+  width          :  100%;
+  vertical-align :  bottom;
+}
+
+
+.div-form {
+  position    :  absolute;
+  z-index     :  1;
+  width       :  100%;
+  top         :  22%;
+  margin      :  0 auto;
+  text-align  :  center;
+  font-family :  serif, "游明朝";
+  color       :#ffffff;
+}
+
+
+.br:before {
+	content     : "\A" ;
+	white-space : pre ;
+}
+
+
+#subject {
+  font-size : 550%;
+}
